@@ -1,2 +1,5 @@
-# android-project-mars
-Android app for MARS project
+# Андроид приложение проекта МАРС
+Это часть проекта МАРС. Здесь лежат:
+
+- Папка *MarsAndroid* (исходники приложения на Kotlin)
+- *mars.apk* - скомпилированное приложение
