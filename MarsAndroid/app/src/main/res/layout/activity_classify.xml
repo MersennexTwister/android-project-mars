@@ -43,8 +43,8 @@
         android:id="@+id/send"
         android:layout_width="129dp"
         android:layout_height="57dp"
-        android:layout_marginStart="52dp"
-        android:layout_marginTop="512dp"
+        android:layout_marginStart="208dp"
+        android:layout_marginTop="508dp"
         android:text="Отправить"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -53,8 +53,8 @@
         android:id="@+id/repeat"
         android:layout_width="123dp"
         android:layout_height="57dp"
-        android:layout_marginStart="224dp"
-        android:layout_marginTop="512dp"
+        android:layout_marginStart="64dp"
+        android:layout_marginTop="508dp"
         android:text="Переснять"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
